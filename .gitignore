@@ -1,3 +1,8 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+
 # Compiled class file
 *.class
 
@@ -21,3 +26,45 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_3_RELEASE.xml
+gmall-admin/target/classes/META-INF/
+gmall-admin/target/classes/application-dev.yml
+gmall-admin/target/classes/application-prod.yml
+gmall-admin/target/classes/application-test.yml
+gmall-admin/target/classes/application.yml
+gmall-admin/target/classes/banner.txt
+gmall-admin/target/classes/logback-spring.xml
+gmall-admin/target/classes/mapper/
+gmall-admin/target/classes/static/
+gmall-admin/target/docker/Dockerfile
+gmall-admin/target/docker/LICENSE
+gmall-admin/target/docker/README.md
+gmall-admin/target/docker/db/
+gmall-admin/target/docker/docker-compose.yml
+gmall-admin/target/docker/gmall-admin.iml
+gmall-admin/target/docker/pom.xml
+gmall-admin/target/docker/src/
+gmall-admin/target/docker/target/classes/META-INF/
+gmall-admin/target/docker/target/classes/application-dev.yml
+gmall-admin/target/docker/target/classes/application-prod.yml
+gmall-admin/target/docker/target/classes/application-test.yml
+gmall-admin/target/docker/target/classes/application.yml
+gmall-admin/target/docker/target/classes/banner.txt
+gmall-admin/target/docker/target/classes/logback-spring.xml
+gmall-admin/target/docker/target/classes/mapper/
+gmall-admin/target/docker/target/classes/static/
+gmall-admin/target/docker/target/gmall-admin.jar.original
+gmall-admin/target/docker/target/maven-archiver/
+gmall-admin/target/docker/target/maven-status/
+gmall-admin/target/generated-sources/
+gmall-admin/target/generated-test-sources/
+gmall-admin/target/gmall-admin.jar.original
+gmall-admin/target/maven-archiver/
+gmall-admin/target/maven-status/
+gmall-common/src/main/resources/
+gmall-common/src/test/
+gmall-common/target/generated-sources/
+gmall-common/target/generated-test-sources/
+gmall-common/target/maven-archiver/
+gmall-common/target/maven-status/
+gmall-common/target/test-classes/
